@@ -30,3 +30,5 @@ Klezer Junior - level design, character design, assets modeling and texturing, S
 Rafaela  Florêncio - UI, game dialogues and HUD art
 
 Our special thanks to the professors of the digital games course at PUC Minas for all their support
+
+### [GAME BUILD](https://yrving-souza.itch.io/the-healing)
